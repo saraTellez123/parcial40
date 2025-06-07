@@ -3,7 +3,7 @@
 namespace app\controlador;
 
 
-use app\modelo\entidad\producto;
+use app\models\entities\Producto;
 
 class productoController
 {
